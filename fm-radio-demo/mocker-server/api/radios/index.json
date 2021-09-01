@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Putin FM",
+    "frequency": 98.4,
+    "logo": "/assets/img/radio-1.png"
+  },
+  {
+    "id": 2,
+    "name": "Dribble FM",
+    "frequency": 99.4,
+    "logo": "/assets/img/radio-2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Doge FM",
+    "frequency": 105.4,
+    "logo": "/assets/img/radio-3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Ballads FM",
+    "frequency": 102.4,
+    "logo": "/assets/img/radio-4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Maximum FM",
+    "frequency": 101.7,
+    "logo": "/assets/img/radio-5.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Minimum FM",
+    "frequency": 96.7,
+    "logo": "/assets/img/radio-6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Spice FM",
+    "frequency": 102.4,
+    "logo": "/assets/img/radio-7.webp"
+  },
+  {
+    "id": 8,
+    "name": "Hot FM",
+    "frequency": 99.5,
+    "logo": "/assets/img/radio-8.jpeg"
+  }
+]
